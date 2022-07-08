@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/AnonymousR1025/StringGenBot",
+  "repository": "https://github.com/MRLUCKYXD/GEN-STRINGBOT",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -45,7 +45,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "DevilsHeavenMF"
+      "value": "TeraYaarHooMai"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
