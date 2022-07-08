@@ -8,6 +8,10 @@
 [![Stars](https://img.shields.io/github/stars/mrluckyxd/GEN-STRINGBOT?style=social)](https://github.com/mrluckyxd/GEN-STRINGBOT/stargazers)
   [![Forks](https://img.shields.io/github/forks/mrluckyxd/GEN-STRINGBOT?style=social)](https://github.com/mrluckyxd/GEN-STRINGBOT/fork)
 
+## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=MRLUCKYXD&repo=GEN-STRINGBOT&theme=dark)
+
+
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
