@@ -3,10 +3,10 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AnonymousR1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
+  <a href="https://github.com/mrluckyxd"><img alt="Website" src="https://img.shields.io/badge/ᴍʀ-ʟᴜᴄᴋʏ-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/stargazers)
-  [![Forks](https://img.shields.io/github/forks/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/fork)
+[![Stars](https://img.shields.io/github/stars/mrluckyxd/GEN-STRINGBOT?style=social)](https://github.com/mrluckyxd/GEN-STRINGBOT/stargazers)
+  [![Forks](https://img.shields.io/github/forks/mrluckyxd/GEN-STRINGBOT?style=social)](https://github.com/mrluckyxd/GEN-STRINGBOT/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,13 +25,13 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnonymousR1025/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Mrluckyxd/GEN-STRINGBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/lucky_officialbot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
